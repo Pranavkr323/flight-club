@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Cache database
+flight_cache.sqlite
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
