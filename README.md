@@ -66,7 +66,7 @@ FlightClub/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/flight-club.git
+git clone https://github.com/Pranavkr323/flight-club.git
 cd flight-club
 ```
 
