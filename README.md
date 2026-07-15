@@ -147,15 +147,15 @@ Sensitive information such as API keys and credentials are stored securely using
 
 ### Terminal
 
-![Terminal](images/terminal.png)
+![Terminal](Images/terminal.png)
 
 ### Email Notification
 
-![Email](images/email.png)
+![Email](Images/email.png)
 
 ### Google Sheet
 
-![Google Sheet](images/sheet.png)
+![Google Sheet](Images/sheet.png)
 
 ## License
 
