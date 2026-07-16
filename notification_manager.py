@@ -18,7 +18,7 @@ class NotificationManager:
     #     whatsapp_message = self.client.messages.create(
     #         from_="whatsapp:+14155238886",
     #         body= message,
-    #         to="whatsapp:+917004114961",
+    #         to="whatsapp:+91xxxxxxxxxxx",
     #     )
     #     print(whatsapp_message.sid)
 
